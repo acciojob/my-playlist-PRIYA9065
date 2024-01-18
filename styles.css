@@ -9,7 +9,7 @@ h1, h2{
 
 ul > li{
 	list-style-type: none;
-	text-decoration: none;
+	text-decoration-line: none;
 }
 
 .player_one{
@@ -25,7 +25,7 @@ ul > li{
 #playlist{
 	border: 1px solid black;
 	border-radius: 10px;
-	background-color: white;
+	background-color: rgb(255,255,255);
 	text-decoration-color: none;
 	width: 90vw;
 	margin: auto;
