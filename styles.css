@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+
+h1, h2{
+	text-align: center;
+}
+
+ul > li{
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.player_one{
+	background-color: rgb(255, 255, 255); 
+	padding: 10px;
+	border-radius: 10px;
+	width: 80vw;
+	margin: auto;
+	display:flex;
+	flex-direction:column;
+}
+
+#playlist{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	text-decoration-color: none;
+	width: 90vw;
+	margin: auto;
+}
+
+audio{
+	width: 80vw;
+}
