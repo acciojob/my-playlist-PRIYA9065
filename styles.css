@@ -7,8 +7,11 @@ h1, h2{
 	text-align: center;
 }
 
-ul > li > a{
+ul > li{
 	list-style-type: none;
+}
+
+a{
 	text-decoration-line: none;
 }
 
